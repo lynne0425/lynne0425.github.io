@@ -1,0 +1,42 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+  margin: 2em;  
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+  .list{
+    color:#96f3b8;
+
+  }
+/*     ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+      } */
+      
+      li{
+        float:right;
+      }
+      li a{
+        display:block;
+        color:White;
+        text-align:center;
+        padding:14px 16px;
+        text-decoration:none;
+      }
+      li a:hover{
+        color:#96f3b8;
+      }
+  
+  
+  #opp{
+    width: 4000px !important; 
+  }
+  
+  
+  
